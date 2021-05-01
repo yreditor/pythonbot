@@ -153,4 +153,4 @@ async def poll(ctx,*,message):
     await msg.add_reaction('👎')
     await ctx.send(embed = embed)
 
-bot.run("ODM4MTA2MDMyMjU3MzY4MDY0.YI2REQ.5IbViv32lhcw4xLr8YousetwH8A")
+bot.run("ODM4MTA2MDMyMjU3MzY4MDY0.YI2REQ.vzw1S28Pl-Hwxg9P5wlkcrj6b0c")
